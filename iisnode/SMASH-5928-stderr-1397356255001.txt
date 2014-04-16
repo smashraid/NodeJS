@@ -1,0 +1,8 @@
+SyntaxError: Unexpected token f
+    at Object.parse (native)
+    at C:\Users\Administrador\Documents\My Web Sites\NodeJS\node_modules\body-parser\index.js:53:25
+    at IncomingMessage.onEnd (C:\Users\Administrador\Documents\My Web Sites\NodeJS\node_modules\body-parser\node_modules\raw-body\index.js:109:7)
+    at IncomingMessage.g (events.js:180:16)
+    at IncomingMessage.EventEmitter.emit (events.js:92:17)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
